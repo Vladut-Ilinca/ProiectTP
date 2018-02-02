@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: d1e3a8f0dedf76546b38dfd2ec863ea1
+  - enabled: 1
+    path: Assets/Terrian.unity
+    guid: 449e6e0c43d0da34bb27dfb4aba5a9a0
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Start Menu.unity
+    guid: 7fb2975dcf29a4142a061d5e32644c94
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Level_01.unity
+    guid: 3c96d84a86d6d4427ae3d108b11aa106
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Level_02.unity
+    guid: 6002d8e3254f44798ae6d8c2a873183f
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Level_03.unity
+    guid: c28156a9d725a4363be2e60302051c82
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Loose Screen.unity
+    guid: 83a8dd0dfa99d4d4e85a592b60b0fa5b
+  - enabled: 1
+    path: Assets/Scenes/BlockGame/Win Screen.unity
+    guid: 14c4ccf78295b44a4b81771a29ac16ba
+  - enabled: 1
+    path: Assets/Scenes/StackGame/Menu.unity
+    guid: 35b2431359193354a8e16c35213d5573
+  - enabled: 1
+    path: Assets/Scenes/StackGame/Stack_Game.unity
+    guid: d93a0ccff431f444aad15e1c60400211
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/Persistent.unity
+    guid: e3637c2ff2711fc4d8f2233a73417f16
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/MenuScreen.unity
+    guid: 99583fe75160d094e8a223708e51b9b1
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/Game.unity
+    guid: 49c62ea7dc8001648a56642855596482
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/question.unity
+    guid: de636599db2f2f441996e9eb83e60892
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/Scufita_II.unity
+    guid: 7bfd69fbb9b5dd844b671358735c4ecf
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/Game_II.unity
+    guid: 8f0ebc081291e5c48a59dcd9b70683b9
+  - enabled: 1
+    path: Assets/Scenes/StoryGame/Question_II.unity
+    guid: 00000000000000000000000000000000

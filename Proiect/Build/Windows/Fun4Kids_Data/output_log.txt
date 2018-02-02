@@ -1,0 +1,242 @@
+Initialize engine version: 5.6.3p1 (9c92e827232b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   NVIDIA
+    VRAM:     4016 MB
+    Driver:   22.21.13.8569
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.TestRunner.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\UnityEngine.TestRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\nunit.framework.dll (this message is harmless)
+Loading C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\nunit.framework.dll into Unity Child Domain
+- Completed reload, in  0.017 seconds
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Vladut\Documents\Proiect\Build\Windows\Fun4Kids_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.140187 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2a80 -> priority: 1 
+  Thread -> id: 23e8 -> priority: 1 
+  Thread -> id: 1b4 -> priority: 1 
+  Thread -> id: 1528 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.330475 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 629.
+Total: 0.334768 ms (FindLiveObjects: 0.030997 ms CreateObjectMapping: 0.015680 ms MarkObjects: 0.155350 ms  DeleteObjects: 0.132375 ms)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Hit Micky
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 27.068115 ms
+
+Unloading 219 unused Assets to reduce memory usage. Loaded Objects now: 464.
+Total: 1.707027 ms (FindLiveObjects: 0.035008 ms CreateObjectMapping: 0.017139 ms MarkObjects: 0.152068 ms  DeleteObjects: 1.501353 ms)
+
+Can't add component 'Rigidbody' to Cube (11) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Cube (11) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.635257 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.301218 ms (FindLiveObjects: 0.026621 ms CreateObjectMapping: 0.010940 ms MarkObjects: 0.197652 ms  DeleteObjects: 0.064911 ms)
+
+Can't add component 'Rigidbody' to Cube (7) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.575451 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 398.
+Total: 0.310700 ms (FindLiveObjects: 0.046677 ms CreateObjectMapping: 0.012034 ms MarkObjects: 0.168842 ms  DeleteObjects: 0.082415 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.258916 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.285902 ms (FindLiveObjects: 0.060900 ms CreateObjectMapping: 0.013128 ms MarkObjects: 0.203122 ms  DeleteObjects: 0.008022 ms)
+
+Can't add component 'Rigidbody' to Cube (9) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.509081 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.240318 ms (FindLiveObjects: 0.026621 ms CreateObjectMapping: 0.010940 ms MarkObjects: 0.167019 ms  DeleteObjects: 0.035008 ms)
+
+Can't add component 'Rigidbody' to Cube because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.620306 ms
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.274962 ms (FindLiveObjects: 0.046677 ms CreateObjectMapping: 0.010940 ms MarkObjects: 0.183794 ms  DeleteObjects: 0.032820 ms)
+
+Can't add component 'Rigidbody' to Cube (1) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.439793 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.316899 ms (FindLiveObjects: 0.029903 ms CreateObjectMapping: 0.023338 ms MarkObjects: 0.227555 ms  DeleteObjects: 0.035373 ms)
+
+Can't add component 'Rigidbody' to Cube (7) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Can't add component 'Rigidbody' to Cube (7) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.377070 ms
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.295019 ms (FindLiveObjects: 0.054700 ms CreateObjectMapping: 0.012034 ms MarkObjects: 0.175771 ms  DeleteObjects: 0.051783 ms)
+
+Can't add component 'Rigidbody' to Cube (8) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437241 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.299760 ms (FindLiveObjects: 0.055065 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.194005 ms  DeleteObjects: 0.026621 ms)
+
+Can't add component 'Rigidbody' to Cube (6) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.363577 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.331121 ms (FindLiveObjects: 0.051054 ms CreateObjectMapping: 0.012398 ms MarkObjects: 0.219167 ms  DeleteObjects: 0.047771 ms)
+
+Can't add component 'Rigidbody' to Cube (6) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.570711 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.213332 ms (FindLiveObjects: 0.025891 ms CreateObjectMapping: 0.010940 ms MarkObjects: 0.154256 ms  DeleteObjects: 0.021880 ms)
+
+Can't add component 'Rigidbody' to Cube (9) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.414266 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.274962 ms (FindLiveObjects: 0.048501 ms CreateObjectMapping: 0.015680 ms MarkObjects: 0.176865 ms  DeleteObjects: 0.032820 ms)
+
+Can't add component 'Rigidbody' to Cube (3) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.450004 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.259281 ms (FindLiveObjects: 0.059806 ms CreateObjectMapping: 0.010575 ms MarkObjects: 0.157902 ms  DeleteObjects: 0.030632 ms)
+
+Can't add component 'Rigidbody' to Cube (10) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.451828 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.288090 ms (FindLiveObjects: 0.051054 ms CreateObjectMapping: 0.023703 ms MarkObjects: 0.186711 ms  DeleteObjects: 0.025527 ms)
+
+Can't add component 'Rigidbody' to Cube (9) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.406608 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 461.
+Total: 0.239224 ms (FindLiveObjects: 0.024432 ms CreateObjectMapping: 0.010575 ms MarkObjects: 0.153162 ms  DeleteObjects: 0.050689 ms)
+
+Can't add component 'Rigidbody' to Cube (9) because such a component is already added to the game object!
+ 
+(Filename:  Line: 97)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.337685 ms
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 398.
+Total: 0.283349 ms (FindLiveObjects: 0.043760 ms CreateObjectMapping: 0.010210 ms MarkObjects: 0.162278 ms  DeleteObjects: 0.066734 ms)
+
+Quit requested
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.469332 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 631.
+Total: 0.335497 ms (FindLiveObjects: 0.031726 ms CreateObjectMapping: 0.016045 ms MarkObjects: 0.153162 ms  DeleteObjects: 0.133834 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 15.147365 ms
+
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 1.641387 ms (FindLiveObjects: 0.029173 ms CreateObjectMapping: 0.014222 ms MarkObjects: 0.131281 ms  DeleteObjects: 1.465979 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.304500 ms
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 631.
+Total: 0.413172 ms (FindLiveObjects: 0.059441 ms CreateObjectMapping: 0.017504 ms MarkObjects: 0.197287 ms  DeleteObjects: 0.138575 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.709183 ms
+
+Unloading 217 unused Assets to reduce memory usage. Loaded Objects now: 404.
+Total: 1.952087 ms (FindLiveObjects: 0.033549 ms CreateObjectMapping: 0.018598 ms MarkObjects: 0.180877 ms  DeleteObjects: 1.717968 ms)
+

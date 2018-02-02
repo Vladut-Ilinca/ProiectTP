@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Proiect.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\NewPlayModeTest.cs">
+    <Files>
+      <File FileName="Assets\Editor\NewPlayModeTest.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Maria\Documents\Proiect\Assets\Editor\NewPlayModeTest.cs" line="10" column="3" />
+      <Breakpoint file="C:\Users\Maria\Documents\Proiect\Assets\Editor\NewPlayModeTest.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
